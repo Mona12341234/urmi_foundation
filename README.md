@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 We designed a web portal for the urmi foundation to provide Management of the data which was difficult to maintain on
-the Excel sheets and Impact analysis for tracking students' progress. This is part of the JPMC code for good event.
-This project is a starting point for a Flutter application.
+the Excel sheets and Impact analysis for tracking students' progress. This is part of the JPMC code for good event.       
+This project is a starting point for a Flutter application.                
 solutions and features for this project are:
 Stored the data in a well-structured centralized database
 More teacher-friendly way of manually entering the data.
